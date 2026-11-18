@@ -1,0 +1,12 @@
+
+{
+  "name": "Shaba AI",
+  "short_name": "Shaba AI",
+  "description": "Your AI assistant in your pocket",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101827",
+  "theme_color": "#101827",
+  "orientation": "portrait"
+}
